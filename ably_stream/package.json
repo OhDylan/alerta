@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ably": "^1.2.45",
+    "aws-sdk": "^2.1465.0"
   }
 }
